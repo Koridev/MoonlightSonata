@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: square_door_openable
+  m_Controller: {fileID: 9100000, guid: bb138769fe546224a9bc391cb99b4ad9, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 22f1b121bf3730d42adb7c7aa150daf4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f45be3cd8615efb4d8ec822d48530caf, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9f630820f3923b44d82dac3097670a94, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c3f69565e3cd8794f9b513fb10676586, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 6b1a57ff9fe7bd94b8cafbf953b215ed, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4dd1beaa17d6ef647a052373ff9db7c9, type: 2}
